@@ -21,8 +21,3 @@ Welcome to my GitHub! I’m passionate about building AI solutions and applying 
 ### 📫 Let's Connect
 - [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-benjid/)
 - [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mehdibenjid)
-
-### 📂 Featured Projects
-- [![Landing Strip Detection](https://img.shields.io/badge/-Landing_Strip_Detection-000?style=flat&logo=github&logoColor=white)](https://github.com/mehdibenjid/landing-strip-detection) - Neural network implementation for landing strip detection using active learning.
-- [![Skywise Data Analysis](https://img.shields.io/badge/-Skywise_Data_Analysis-000?style=flat&logo=github&logoColor=white)](https://github.com/mehdibenjid/skywise-analysis) - Data analysis on the Skywise platform to optimize operations and solve in-service issues.
-
