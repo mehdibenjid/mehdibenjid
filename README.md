@@ -15,9 +15,6 @@ Welcome to my GitHub! I’m passionate about building AI solutions and applying 
 - **Frameworks & Tools:** TensorFlow, PyTorch, Scikit-Learn, Flask, Docker, Kubernetes, OpenShift
 - **Other:** Git, Agile Methodologies, TDD & BDD, CI/CD, RESTful APIs
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehdibenjid&show_icons=true&hide=issues&count_private=true&theme=radical)
-
 ### 🔥 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdibenjid&layout=compact&theme=radical)
 
